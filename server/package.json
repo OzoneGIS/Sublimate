@@ -1,0 +1,9 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/SSites/Sublimate",
+  "author": "Adrian Darian",
+  "license": "MIT",
+  "private": true
+}
